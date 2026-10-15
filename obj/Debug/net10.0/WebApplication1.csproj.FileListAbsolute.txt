@@ -1,0 +1,9 @@
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.csproj.AssemblyReference.cache
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.AssemblyInfoInputs.cache
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.AssemblyInfo.cs
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.RazorAssemblyInfo.cache
+/Users/jeanajoo/Desktop/MIS 333K/Joo_Jeana_HW4/Joo_Jeana_HW4/obj/Debug/net10.0/WebApplication1.RazorAssemblyInfo.cs
